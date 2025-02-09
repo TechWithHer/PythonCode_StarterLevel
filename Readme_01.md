@@ -4,7 +4,7 @@ Learned about importing
 MATH
 RANDOM 
 DATETIME 
-
+------
 Methods: 
 strftime()
 random.random()
@@ -15,7 +15,7 @@ datetime.date(y, m, d)
 max()
 min()
 
-
+------
 Others: 
 
 List of Common strftime() Format Codes
@@ -46,5 +46,7 @@ Format Code	Meaning	Example Output
 %x	Local date format	02/05/25 (MM/DD/YY in the US)
 %X	Local time format	14:30:45
 
-
+-------
+end ""
+-------
 Toughies: Dragon Curves 
