@@ -50,3 +50,10 @@ Format Code	Meaning	Example Output
 end ""
 -------
 Toughies: Dragon Curves 
+
+Plan for Dragon Curves
+We’ll break it down into:
+✅ Understanding the Dragon Curve (Fractal Concept)
+✅ Generating the Curve Using Recursion
+✅ Visualizing it with turtle or matplotlib
+
